@@ -1,7 +1,7 @@
 {
   "projects": {
-    "production": "react-firebase-admin-eeac2",
-    "staging": "react-firebase-admin-eeac2",
-    "default": "react-firebase-admin-eeac2"
+    "production": "finalfoods-6d257",
+    "staging": "finalfoods-6d257",
+    "default": "finalfoods-6d257"
   }
 }
